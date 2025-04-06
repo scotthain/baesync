@@ -1,0 +1,12 @@
+# Core dependencies
+click>=8.0.0
+rich>=10.0.0
+rsync-backup>=0.1.0
+
+# Testing
+pytest>=7.0.0
+
+# Development
+black>=22.0.0
+isort>=5.10.0
+build>=0.10.0 
